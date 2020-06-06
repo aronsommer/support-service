@@ -1,9 +1,9 @@
 title: Support Service
-description: Suchen Sie einen Texter in der Schweiz? Ich bin eine freie Texterin aus Basel und biete professionelle & stilsichere Texte in Schweizer Qualität.
-author: Lea Bosshart
+description: Hier erhalten Sie menschliche, unkompizierte und schnelle Hilfe bei Computer- und Internetproblemen. Fragen Sie unverbindlich nach einer Beratung.
+author: Josua Volken
 
 # remote_theme: pmarsceill/just-the-docs
-remote_theme: leabosshart/just-the-docs
+remote_theme: aronsommer/just-the-docs
 color_scheme: nil
 search_enabled: false
 
@@ -24,4 +24,4 @@ footer_content: "Copyright &copy; 2020 Josua Volken"
 heading_anchors: false
 
 # Google Analytics Tracking (optional)
-ga_tracking: UA-163294258-1
+# ga_tracking: UA-163294258-1
