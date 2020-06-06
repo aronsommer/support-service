@@ -6,7 +6,7 @@ nav_order: 1
 
 <!-- ![](images/oktopus-512x512.jpg) -->
 
-# Fachchinesisch war gestern - heute helfe ich Ihnen.
+# Fachchinesisch war gestern - Heute helfe ich Ihnen.
 
 <!-- <img src="images/Logo-128x128.jpg" loading="lazy" alt="" width="128" height="128"> -->
 

@@ -3,7 +3,7 @@
 
 .site-title {
 color: #f14c2e !important;
-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-weight: 300; line-height: 1em;
+font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-weight: 700; line-height: 1em;
 }
 
 .menu-button {color: #f14c2e !important;}
@@ -13,6 +13,8 @@ $sidebar-color: $white;
 $nav-child-link-color: #27262b;
 //$link-color: #000000;
 //.page {text-align: center;}
+
+body {-webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;}
 
 //// navigation links ////
 
@@ -54,6 +56,7 @@ white-space: normal !important;
 //// Typography
 ////
 
+$body-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 //$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
 //$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 //$root-font-size: 16px;         // Base font-size for rems
