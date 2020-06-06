@@ -8,7 +8,7 @@
   }
   ,"1": {
     "title": "Kontakt",
-    "content": "Kontakt . Ich freue mich auf Ihre Kontaktaufnahme! . info@support-service.ch . 052 534 44 07 . Support Service Josua Volken Turnerstrasse 25 8472 Seuzach .",
+    "content": "Kontakt . Ich freue mich auf Ihre Kontaktaufnahme! . josua.volken@nutzwerke.ch . 052 534 44 07 . Support Service Josua Volken Turnerstrasse 25 8472 Seuzach .",
     "url": "http://localhost:4000/contact.html",
     "relUrl": "/contact.html"
   }
@@ -26,7 +26,7 @@
   }
   ,"4": {
     "title": "Angebot",
-    "content": "Angebot . Will Ihr Computer nicht mehr richtig? Ich biete schnelle Hilfe bei Ihnen zu Hause oder über Fernzugriff. | . Ist Ihr WLAN langsam oder fällt es ständig aus? Ich helfe Ihnen die Gründe dafür zu erkennen und zu beseitigen. | . Unzufrieden mit Ihrem Netzanbieter? Ich habe bei verschiedenen grossen Providern gearbeitet und helfe Ihnen gerne die Probleme zu lösen oder einen Wechsel abzuwickeln. | . Ist Ihre Infrastruktur in die Jahre gekommen? Ich kläre mit Ihnen ab was Ihre effektiven Bedürfnisse für die Zukunft sind und mache Ihnen Kaufempfehlungen, oder organisiere gleich die gewünschten Geräte. Beim Wechsel auf neue Systeme über nehme ich natürlich alle nötigen arbeiten. | . Sind Ihnen Programme wie Microsoft Office zu teuer? Ich arbeite wenn immer die Anforderungen nichts anderes vorgeben mit so genannten OpenSource-Lösungen. Das heisst es gibt für die meisten Anwendungen gleichwertige Programme die kostenlos sind. Ich helfe Ihnen gerne beim Umstieg und zeige Ihnen Vor- und Nachteile auf. | . Keine Lust mehr auf Kabelsalat? Ich auch nicht, also lassen Sie mich Ordnung in Ihre Verkabelung bringen. | . Sie benötigen einen Internetauftritt? Ich kläre für Sie den Namen ab und erstelle Ihnen ein Design auf welchem Sie später ohne grossen Aufwand selber Inhalte anpassen können. | .",
+    "content": "Angebot . 💻 Will Ihr Computer nicht mehr richtig? Ich biete schnelle Hilfe bei Ihnen zu Hause oder über Fernzugriff. | . 📡 Ist Ihr WLAN langsam oder fällt es ständig aus? Ich helfe Ihnen die Gründe dafür zu erkennen und zu beseitigen. | . 📶 Unzufrieden mit Ihrem Netzanbieter? Ich habe bei verschiedenen grossen Providern gearbeitet und helfe Ihnen gerne die Probleme zu lösen oder einen Wechsel abzuwickeln. | . 📺 Ist Ihre Infrastruktur in die Jahre gekommen? Ich kläre mit Ihnen ab was Ihre effektiven Bedürfnisse für die Zukunft sind und mache Ihnen Kaufempfehlungen, oder organisiere gleich die gewünschten Geräte. Beim Wechsel auf neue Systeme über nehme ich natürlich alle nötigen arbeiten. | . 💵 Sind Ihnen Programme wie Microsoft Office zu teuer? Ich arbeite wenn immer die Anforderungen nichts anderes vorgeben mit so genannten OpenSource-Lösungen. Das heisst es gibt für die meisten Anwendungen gleichwertige Programme die kostenlos sind. Ich helfe Ihnen gerne beim Umstieg und zeige Ihnen Vor- und Nachteile auf. | . 🔌 Keine Lust mehr auf Kabelsalat? Ich auch nicht, also lassen Sie mich Ordnung in Ihre Verkabelung bringen. | . 🖥 Sie benötigen einen Internetauftritt? Ich kläre für Sie den Namen ab und erstelle Ihnen ein Design auf welchem Sie später ohne grossen Aufwand selber Inhalte anpassen können. | .",
     "url": "http://localhost:4000/service.html",
     "relUrl": "/service.html"
   }
