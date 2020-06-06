@@ -1,0 +1,58 @@
+{
+  
+  "0": {
+    "title": "Über mich",
+    "content": "Über mich . . In den letzten Jahren musste ich immer wieder feststellen, dass es viele Menschen gibt die Mühe haben mit der heutigen digitalen Zeit klar zu kommen. Nutzwerke ist für Sie die Brücke zwischen den Schwierigkeiten und den Vorzügen dieser Zeit. Haben Sie keine Angst sich auf neues ein zu lassen. Ich helfe Ihnen dabei. Einfach, menschlich und verständlich. . Ein essentieller Grundpfeiler ist die Erschwinglichkeit meiner angebotenen Dienstleistungen. Ich erkläre Ihnen den geschätzten Aufwand, passe mich individuell an Ihre Bedürfnisse an und bleibe stets transparent. . Josua Volken, Inhaber support-service.ch | .",
+    "url": "http://localhost:4000/about.html",
+    "relUrl": "/about.html"
+  }
+  ,"1": {
+    "title": "Kontakt",
+    "content": "Kontakt . Ich freue mich auf Ihre Kontaktaufnahme! . info@support-service.ch . 052 534 44 07 . Support Service Josua Volken Turnerstrasse 25 8472 Seuzach .",
+    "url": "http://localhost:4000/contact.html",
+    "relUrl": "/contact.html"
+  }
+  ,"2": {
+    "title": "Home",
+    "content": "Fachchinesisch war gestern - heute helfe ich Ihnen. . In den letzten Jahren musste ich immer wieder feststellen, dass es viele Menschen gibt die Mühe haben mit der heutigen digitalen Zeit klar zu kommen. Nutzwerke ist für Sie die Brücke zwischen den Schwierigkeiten und den Vorzügen dieser Zeit. Haben Sie keine Angst sich auf neues ein zu lassen. Ich helfe Ihnen dabei. Einfach, menschlich und verständlich. . Ein essentieller Grundpfeiler ist die Erschwinglichkeit meiner angebotenen Dienstleistungen. Ich erkläre Ihnen den geschätzten Aufwand, passe mich individuell an Ihre Bedürfnisse an und bleibe stets transparent. . Josua Volken, Inhaber support-service.ch | .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  ,"3": {
+    "title": "Preise",
+    "content": "Preise . Bei Ihnen zu Hause Hilfe über Fernzugriff Vorbereitung und Webdesign . 90 sFr. pro Stunde | 85 sFr. pro Stunde | 85 sFr. pro Stunde | . Es gelten folgende Anfahrtspauschalen: . bis 5 km 5-10 km 10-20 km 20-40 km über 40 km . gratis | 10 sFr. | 20 sFr. | 40 sFr. | auf Anfrage | . Es sind auch individuelle Preise möglich. Fragen sie unverbindlich nach einer Beratung und Offerte. .",
+    "url": "http://localhost:4000/pricing.html",
+    "relUrl": "/pricing.html"
+  }
+  ,"4": {
+    "title": "Angebot",
+    "content": "Angebot . Will Ihr Computer nicht mehr richtig? Ich biete schnelle Hilfe bei Ihnen zu Hause oder über Fernzugriff. | . Ist Ihr WLAN langsam oder fällt es ständig aus? Ich helfe Ihnen die Gründe dafür zu erkennen und zu beseitigen. | . Unzufrieden mit Ihrem Netzanbieter? Ich habe bei verschiedenen grossen Providern gearbeitet und helfe Ihnen gerne die Probleme zu lösen oder einen Wechsel abzuwickeln. | . Ist Ihre Infrastruktur in die Jahre gekommen? Ich kläre mit Ihnen ab was Ihre effektiven Bedürfnisse für die Zukunft sind und mache Ihnen Kaufempfehlungen, oder organisiere gleich die gewünschten Geräte. Beim Wechsel auf neue Systeme über nehme ich natürlich alle nötigen arbeiten. | . Sind Ihnen Programme wie Microsoft Office zu teuer? Ich arbeite wenn immer die Anforderungen nichts anderes vorgeben mit so genannten OpenSource-Lösungen. Das heisst es gibt für die meisten Anwendungen gleichwertige Programme die kostenlos sind. Ich helfe Ihnen gerne beim Umstieg und zeige Ihnen Vor- und Nachteile auf. | . Keine Lust mehr auf Kabelsalat? Ich auch nicht, also lassen Sie mich Ordnung in Ihre Verkabelung bringen. | . Sie benötigen einen Internetauftritt? Ich kläre für Sie den Namen ab und erstelle Ihnen ein Design auf welchem Sie später ohne grossen Aufwand selber Inhalte anpassen können. | .",
+    "url": "http://localhost:4000/service.html",
+    "relUrl": "/service.html"
+  }
+  ,"5": {
+    "title": "Webdesign",
+    "content": "Webdesign . Ihr neuer Internetauftritt: frisch, jung und frech, oder klassisch und standhaft, auf jeden Fall immer erreichbar. | . Ihren Auftritt verknüpfe ich mit Google damit Sie eine grosse Reichweite und gute Suchergebnisse erreichen. | . Auf Wunsch richte ich Ihnen so genannte „Google Adwords“ ein. Damit können für gewisse Suchwörter auf Google Anzeigen geschaltet werden und Sie ganz nach oben bringen. | . Ich erstelle Ihnen einen Internetauftritt der auf modernen SSD-Servern gespeichert ist. Dies bietet stets eine schnelle und konstante Performance. | .",
+    "url": "http://localhost:4000/webdesign.html",
+    "relUrl": "/webdesign.html"
+  }
+  ,"6": {
+    "title": "Referenzen",
+    "content": "Referenzen . Haar-Manu-Faktur Coiffeurgeschäft | Kikki la Fleure Katzenbaum | .",
+    "url": "http://localhost:4000/works/works.html",
+    "relUrl": "/works/works.html"
+  }
+  ,"7": {
+    "title": "Haar-Manu-Faktur",
+    "content": "Haar-Manu-Faktur Coiffeurgeschäft . Webdesign sowie Planung und Umbau des Salons. . haar-manu-faktur.ch . . Der ganze Salon wurde gemeinsam zum optimalen Umbau gebracht. Diese Umbauphase wurde 2015 komplett von mir gepalnt und umgesetzt. . . Aktuell wird am gleichen Objekt eine neue Speigelwand mit kleinen Schränken geplant. Dazu wird nach einer gründlichen Besprechnung und Mass nehmen jeweils mit 3D Zeichnungen aufgezeigt wie das Endergebnis in etwa wirkt. So können Sie sich ein gutes Bild über das Endergebnis machen und allfällige Änderungen frühzeitig einfliessen lassen. . . .",
+    "url": "http://localhost:4000/works/works1.html",
+    "relUrl": "/works/works1.html"
+  }
+  ,"8": {
+    "title": "Kikki la Fleure",
+    "content": "Kikki la Fleure Katzenbaum . Ideen habe ich viele, bei der Umsetzung fehlt es mir aber an Erfahrung. Für meine Katze wollte ich einen individuellen Katzenbaum aus einem regionalen Rundholz fertigen. Nutzwerke hat mich bei der kompletten Umsetzung fachmännisch unterstützt - Von der Auswahl des Holzes beim Förster, dem Transport, der anschließenden Schreinerarbeiten und finalen Konstruktion. Das Endergebnis ist ein qualitativ hochwertiges Endprodukt mit dem gewissen Etwas. Meine Katze hat nach wie vor täglich Freude daran. . Kikki la Fleure, zufriedene Katze | .",
+    "url": "http://localhost:4000/works/works2.html",
+    "relUrl": "/works/works2.html"
+  }
+  
+}
